@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "既知の恥",
+  "base_artist": "原口沙輔",
+  "createdAt": "2026-01-10T13:37:49.120372Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "既知の恥",
+      "artist": "原口沙輔",
+      "has_synced": false,
+      "path": "select/pl_01_既知の恥_原口沙輔.txt"
+    }
+  ]
+}
